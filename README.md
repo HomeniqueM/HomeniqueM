@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**HomeniqueM/HomeniqueM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 ## Flutter
@@ -19,3 +18,5 @@
 * [Graph Algorithms ](https://github.com/HomeniqueM/Graph-algorithms_cpp)
 * [Image inpainting(College research)](https://github.com/solid-titans/image-inpaiting-in-cpp) -> participated
 
+<!--
+**HomeniqueM/HomeniqueM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
