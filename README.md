@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://homeniquem.github.io/">Homenique Vieira</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 Computer Science Bachelor of Science 🏦 <b>Pontifical Catholic University of Minas Gerais</b> 」<br>
+    「 Computer Science undergraduate 🏦 <b>Pontifical Catholic University of Minas Gerais</b> 」<br>
   </samp>
 </p>
      <p align="center">
