@@ -5,7 +5,8 @@
   </samp>
 </p>
      <p align="center">
-      <a href="https://www.linkedin.com/in/homeniquevm/" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Homenique%20Vieira-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/homeniquevm/"></a><p align="center"><br>
+   <a href="https://www.linkedin.com/in//homeniquevm/" alt="Linkedin">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
@@ -35,5 +36,3 @@
 
 
 
-<!--
-**HomeniqueM/HomeniqueM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
