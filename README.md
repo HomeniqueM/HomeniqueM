@@ -28,7 +28,8 @@
 <br>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HomeniqueM&show_icons=false&theme=gotham&include_all_commits=true&count_private=true" align="center"/> &nbsp;&nbsp;&nbsp;
-  <img height="150em"  width= "400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomeniqueM&layout=compact&langs_count=16&theme=gotham" align="center"/>
+  <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomeniqueM&layout=compact&langs_count=16&theme=gotham" align="center"/>
 </div>
 <br>
 <p align="center">
