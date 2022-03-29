@@ -33,7 +33,7 @@
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://homeniquem.github.io/cv/Homenique.pdf">My Resume</a><br>
   <p align="center">
-  <a href="https://github.com/kevinjycui" target="_blank"><img alt="Homenique" src="https://badges.pufler.dev/visits/HomeniqueM/HomeniqueM?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+
 
 
 
