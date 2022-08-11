@@ -21,7 +21,9 @@
   <a href="https://github.com/HomeniqueM?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
   <a href="https://github.com/HomeniqueM?tab=repositories&q=&type=&language=dart&sort=" target="_blank">	<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /></a>
   <a href="#" alt="Python">
-        <img src="https://img.shields.io/badge/PYTHON3-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>      
+        <img src="https://img.shields.io/badge/PYTHON3-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#" alt="Rust">
+        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>  
 </div>
 
 ## **My Stats**
